@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SCC CIS Mobile Design Class Portal</string>
+    <string-array name="split_array">
+        <item>United States</item>
+        <item>China</item>
+        <item>United Kingdom</item>
+        <item>France</item>
+        <item>Australia</item>
+
+    </string-array>
+
+</resources>
